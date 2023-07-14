@@ -1,0 +1,1 @@
+## Hola, este es el comienzo de un porograma para gestionar ventas en pequeños y medianas empresas.
