@@ -1,1 +1,1 @@
-## Hola, este es el comienzo de un porograma para gestionar ventas en pequeños y medianas empresas.
+## Hola, este es el comienzo de un programa para gestionar ventas en pequeños y medianas empresas.
